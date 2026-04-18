@@ -1,0 +1,7 @@
+title: Layered by Layering — Legal
+description: Privacy Policy, Terms of Service, and Support for Layered by Layering
+theme: jekyll-theme-cayman
+permalink: /:path/
+lang: ko
+exclude:
+  - README.md
